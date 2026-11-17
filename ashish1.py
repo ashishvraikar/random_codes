@@ -1,3 +1,4 @@
+#code for finding greatest number among two
 first = float(input("Enter the first number: "))
 second = float(input("Enter the second number: "))
 
